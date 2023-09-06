@@ -3,7 +3,6 @@
 ### Front-end developer
 
 Front-End:
-
 <div id="stack">
     <div id="badges">
        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript badge" />
@@ -20,7 +19,6 @@ Front-End:
  </div>
 
 Build Tools:
-
 <div id="stack">
     <div id="badges">
         <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="webpack badge" />
@@ -29,7 +27,6 @@ Build Tools:
 </div>
 
 Code Quality:
-
 <div id="stack">
     <div id="badges">
         <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint badge" />
@@ -38,7 +35,6 @@ Code Quality:
 </div>
 
 Testing:
-
 <div id="stack">
     <div id="badges">
         <img src="https://img.shields.io/badge/-vitest-white?logo=vitest&logoColor=purple&style=for-the-badge" alt="vitest badge" />
@@ -48,7 +44,6 @@ Testing:
 </div>
 
 Back-End:
-
 (TS/JS)
 <div id="stack">
     <div id="badges">
