@@ -43,8 +43,7 @@ Testing:
     </div>
 </div>
 
-Back-End:
-(TS/JS)
+Back-End (TS/JS):
 <div id="stack">
     <div id="badges">
        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node badge" />
@@ -54,5 +53,6 @@ Back-End:
        <img src="https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma badge" />
        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres badge" />
        <img src="https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge" alt="graphql badge" />
+       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="docker badge" />
     </div>
 </div>
