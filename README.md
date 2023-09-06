@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋. I'm Vlad
 
-## Oleg Semenov
-
-## Skills
+### Front-end developer
 
 Front-End:
 
@@ -60,6 +58,6 @@ Back-End:
        <img src="https://img.shields.io/badge/-fastify-black?logo=fastify&logoColor=green&style=for-the-badge" alt="fastify badge" />
        <img src="https://img.shields.io/badge/-Prisma-61DAFB?logo=prisma&logoColor=white&style=for-the-badge" alt="prisma badge" />
        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres badge" />
-       <img src="img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge" alt="graphql badge" />
+       <img src="https://img.shields.io/badge/-graphql-black?logo=graphql&logoColor=red&style=for-the-badge" alt="graphql badge" />
     </div>
 </div>
