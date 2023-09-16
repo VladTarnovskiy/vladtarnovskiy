@@ -56,3 +56,11 @@ Back-End (TS/JS):
        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white alt="docker badge" />
     </div>
 </div>
+
+Codewars:
+<div id="stack">
+    <div id="badges">
+       https://www.codewars.com/users/rsschool_3304674385ad4bfa
+    </div>
+</div>
+
