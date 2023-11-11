@@ -14,6 +14,9 @@ Front-End:
        <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="react-router badge"/>
        <img src="https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux-toolkit badge"/>
        <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next badge" />
+       <img src="https://img.shields.io/badge/angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular badge" />
+       <img src="https://img.shields.io/badge/RxJS-%23B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS badge" />
+       <img src="https://img.shields.io/badge/ngrx-%23BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white" alt="NgRx badge" />
        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5 badge" />
        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3 badge" />
        <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="sass/scss badge"/>
