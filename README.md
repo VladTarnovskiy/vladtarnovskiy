@@ -71,7 +71,7 @@ Back-End (TS/JS):
 Codewars:
 <div id="stack">
     <div id="badges">
-       https://www.codewars.com/users/rsschool_3304674385ad4bfa
+       https://www.codewars.com/users/Vlad%20Tarnovskiy
     </div>
 </div>
 
